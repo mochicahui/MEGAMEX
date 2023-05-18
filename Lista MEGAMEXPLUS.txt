@@ -15,11 +15,11 @@ http://170.83.242.152:5350/play/a091
 #EXTINF:-1 ,Animal Planet
 http://170.83.242.152:5350/play/a00p
 #EXTINF:-1 ,Animal Planet HD
-http://186.101.207.117:9955/play/a0cg/index.m3u8
+http://181.78.24.187:8006/play/a088/index.m3u8
 #EXTINF:-1,AMC HD
-http://186.101.207.117:9955/play/a0ck/index.m3u8
+http://181.78.24.187:8006/play/a06j/index.m3u8
 #EXTINF:-1,AXN HD
-http://186.101.207.117:9955/play/a0bv/index.m3u8
+http://181.78.24.187:8006/play/a005/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://186.101.207.117:9955/play/a0d1/index.m3u8
 #EXTINF:-1,DHE HD
