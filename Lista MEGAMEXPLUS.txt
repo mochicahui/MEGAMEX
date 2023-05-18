@@ -3,7 +3,7 @@
 #EXTINF:-1,Home & Health HD
 http://181.78.24.187:8006/play/a085/index.m3u8
 #EXTINF:-1,Film & arts HD
-http://186.101.207.117:9955/play/a0ci/index.m3u8
+http://190.61.102.67:31589/play/a08i/index.m3u8
 #EXTINF:-1,E! Entertairment HD
 http://181.78.24.187:8006/play/a06n/index.m3u8
 #EXTINF:-1 ,AE Mundo
@@ -21,7 +21,7 @@ http://181.78.24.187:8006/play/a06j/index.m3u8
 #EXTINF:-1,AXN HD
 http://181.78.24.187:8006/play/a005/index.m3u8
 #EXTINF:-1,Comedy Central HD
-http://186.101.207.117:9955/play/a0d1/index.m3u8
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1,DHE HD
 http://186.101.207.117:9955/play/a0cp/index.m3u8
 #EXTINF:-1 ,BabyFirst
@@ -29,15 +29,15 @@ http://170.83.242.152:5350/play/a0mg
 #EXTINF:-1 ,Canal Estrellas
 http://170.83.242.152:5350/play/a012
 #EXTINF:-1,Univision HD
-http://186.101.207.117:9955/play/a0c9/index.m3u8
+http://45.190.13.50:8002/play/a00r/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://181.78.24.187:8006/play/a09e/index.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://170.83.242.152:5350/play/a03a
 #EXTINF:-1,CARTOON NT HD
-http://186.101.207.117:9955/play/a0bd/index.m3u8
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1,Teen Nick HD
-http://186.101.207.117:9955/play/a0ce/index.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Nickelodeon
 http://181.78.27.188:5350/play/a02w
 #EXTINF:-1,Disney Jr
@@ -55,13 +55,13 @@ http://170.83.242.152:5350/play/a017
 #EXTINF:-1 ,Discovery Kids
 http://170.83.242.152:5350/play/a02b
 #EXTINF:-1,Discovery Kids HD
-http://186.101.207.117:9955/play/a0b6/index.m3u8
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
 #EXTINF:-1,Discovery World HD
-http://186.101.207.117:9955/play/a0c7/index.m3u8
+http://181.78.24.187:8006/play/a087/index.m3u8
 #EXTINF:-1 ,Discovery Turbo
 http://170.83.242.152:5350/play/a00f
 #EXTINF:-1 ,Disney Channel
-http://170.83.242.152:5350/play/a00n
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
 #EXTINF:-1,Discovery Channel HD
 http://186.101.207.117:9955/play/a0c6/index.m3u8
 #EXTINF:-1 ,Disney Jr
