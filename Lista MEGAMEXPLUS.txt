@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Home & Health HD
-http://181.78.24.187:8006/play/a085/index.m3u8
+http://190.119.178.46:8000/play/a0bf/index.m3u8
 #EXTINF:-1,Film & arts HD
 http://190.61.102.67:31589/play/a08i/index.m3u8
 #EXTINF:-1,E! Entertairment HD
@@ -71,9 +71,9 @@ http://170.83.242.152:5350/play/a00r
 #EXTINF:-1 ,FX
 http://170.83.242.152:5350/play/a006
 #EXTINF:-1,FX HD
-http://186.101.207.117:9955/play/a0cm/index.m3u8
+http://190.119.178.46:8000/play/a0bp/index.m3u8
 #EXTINF:-1 ,HBO
-http://170.83.242.152:5350/play/a001
+http://190.119.178.46:8000/play/a09c/index.m3u8
 #EXTINF:-1,HBO HD
 http://186.101.207.117:9955/play/a0be/index.m3u8
 #EXTINF:-1 ,HBO 2
@@ -97,7 +97,7 @@ http://170.83.242.152:5350/play/a00e
 #EXTINF:-1 ,Nickelodeon
 http://170.83.242.152:5350/play/a02w
 #EXTINF:-1 ,STAR CHANNEL
-http://170.83.242.152:5350/play/a037
+http://190.119.178.46:8000/play/a09w/index.m3u8
 #EXTINF:-1 ,Sony
 http://170.83.242.152:5350/play/a003
 #EXTINF:-1,Sony Movies HD
