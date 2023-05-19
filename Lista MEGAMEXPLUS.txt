@@ -55,7 +55,7 @@ http://170.83.242.152:5350/play/a017
 #EXTINF:-1 ,Discovery Kids
 http://170.83.242.152:5350/play/a02b
 #EXTINF:-1,Discovery Kids HD
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
+http://190.119.178.46:8000/play/a0be/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://181.78.24.187:8006/play/a087/index.m3u8
 #EXTINF:-1 ,Discovery Turbo
@@ -73,7 +73,7 @@ http://170.83.242.152:5350/play/a006
 #EXTINF:-1,FX HD
 http://190.119.178.46:8000/play/a0bp/index.m3u8
 #EXTINF:-1 ,HBO
-http://190.119.178.46:8000/play/a09c/index.m3u8
+http://190.119.178.46:8000/play/a0c2/index.m3u8
 #EXTINF:-1,HBO HD
 http://186.101.207.117:9955/play/a0be/index.m3u8
 #EXTINF:-1 ,HBO 2
@@ -97,7 +97,7 @@ http://170.83.242.152:5350/play/a00e
 #EXTINF:-1 ,Nickelodeon
 http://170.83.242.152:5350/play/a02w
 #EXTINF:-1 ,STAR CHANNEL
-http://190.119.178.46:8000/play/a09w/index.m3u8
+http://190.119.178.46:8000/play/a0c7/index.m3u8
 #EXTINF:-1 ,Sony
 http://170.83.242.152:5350/play/a003
 #EXTINF:-1,Sony Movies HD
