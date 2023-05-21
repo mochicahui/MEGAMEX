@@ -195,5 +195,30 @@ http://190.61.102.67:31589/play/a00h/index.m3u8
 http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
 http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="Videorola.mx" group-title="MUSICA", 268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="MXNuestroCine.mx" group-title="LOCALES", 304 MX Nuestro Cine
+http://190.61.102.67:31589/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="History2.mx" group-title="CONOCIMIENTO", 320 History2
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx" group-title="MUSICA", BANDAMAX
+http://190.61.102.67:31589/play/a08h/index.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" group-title="ENTRETENIMIENTO", UNICABLE
+http://190.61.102.67:31589/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="LOCALES REGIONALES",Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="INTERNACIONAL",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="RELIGIÓN",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", WARNER
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.ts
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/002/490/496/small/old-retro-tv-isolated-icon-free-vector.jpg" group-title="24/7", TV RETRO
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 
